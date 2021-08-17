@@ -8,6 +8,7 @@ public class DisplayNumbOfSubjects {
 	//author status : worried
 	//author game : zhakkas
 
+
 	public static void main(String[] args) {
 		
 		
