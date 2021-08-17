@@ -6,6 +6,7 @@ public class DisplayNumbOfSubjects {
 	//autor dated : 17th Aug 2021
 	//author home : Earth Planet
 	//author status : worried
+	//author house : duplex bunglow
 
 	public static void main(String[] args) {
 		
