@@ -6,7 +6,7 @@ public class DisplayNumbOfSubjects {
 	//autor dated : 17th Aug 2021
 	//author home : Earth Planet
 	//author status : worried
-	//author game : zhakkas
+	//author game : chess
 
 
 	public static void main(String[] args) {
