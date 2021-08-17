@@ -1,6 +1,10 @@
 package com.corps.reddragons;
 
 public class DisplayNumbOfSubjects {
+	
+	//author : abhishek
+	//autor dated : 17th Aug 2021
+	//author home : Earth
 
 	public static void main(String[] args) {
 		
