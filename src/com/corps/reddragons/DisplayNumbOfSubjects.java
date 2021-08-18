@@ -10,7 +10,7 @@ public class DisplayNumbOfSubjects {
 	
 	//bug-fix comment from bugfix branch
 	
-	//blah blah blah from master
+	//bug-fix1 comment from bugfix1 branch
 
 
 	public static void main(String[] args) {
