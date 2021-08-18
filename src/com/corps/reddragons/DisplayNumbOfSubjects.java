@@ -9,6 +9,8 @@ public class DisplayNumbOfSubjects {
 	//author game : chess
 	
 	//bug-fix comment from bugfix branch
+	
+	//bug-fix1 comment from bugfix1 branch
 
 
 	public static void main(String[] args) {
