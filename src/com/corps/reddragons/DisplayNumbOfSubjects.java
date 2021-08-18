@@ -7,6 +7,8 @@ public class DisplayNumbOfSubjects {
 	//author home : Earth Planet
 	//author status : worried
 	//author game : chess
+	
+	//bug-fix comment from bugfix branch
 
 
 	public static void main(String[] args) {
